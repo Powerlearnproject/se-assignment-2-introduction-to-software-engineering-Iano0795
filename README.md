@@ -8,6 +8,7 @@ Answer the following questions based on your understanding of software engineeri
 Questions:
 ## Define Software Engineering:
 
+<<<<<<< HEAD
 ### What is software engineering, and how does it differ from traditional programming?
 Software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications. [mtu.edu]
 Software Engineering vs. Traditional Programming: 
@@ -447,6 +448,48 @@ Client Conflicts:
 •	Mitigation: Communicate openly, prioritize public welfare, and seek legal advice if needed.
 
 ## Submission Guidelines:
+=======
+What is software engineering, and how does it differ from traditional programming?
+
+Software Development Life Cycle (SDLC):
+
+Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+
+Agile vs. Waterfall Models:
+
+Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
+
+Requirements Engineering:
+
+What is requirements engineering? Describe the process and its importance in the software development lifecycle.
+
+Software Design Principles:
+
+Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
+
+Testing in Software Engineering:
+
+Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
+
+Version Control Systems:
+
+What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
+
+Software Project Management:
+
+Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
+
+Software Maintenance:
+
+Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
+
+Ethical Considerations in Software Engineering:
+
+What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
+
+Submission Guidelines:
+
+>>>>>>> 3d40b24eef43a7c8c953e4d8056266dfaa992a19
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
 Cite any references or sources you use in your answers.
