@@ -37,6 +37,7 @@ Ethical Considerations in Software Engineering:
 
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
 Submission Guidelines:
+
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
 Cite any references or sources you use in your answers.
