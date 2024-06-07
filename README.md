@@ -8,7 +8,6 @@ Answer the following questions based on your understanding of software engineeri
 Questions:
 ## Define Software Engineering:
 
-<<<<<<< HEAD
 ### What is software engineering, and how does it differ from traditional programming?
 Software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications. [mtu.edu]
 Software Engineering vs. Traditional Programming: 
